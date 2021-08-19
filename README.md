@@ -1,2 +1,2 @@
 # AGAgroindustria
-Exemplo didática de AG para minimização de custo de ração
+Exemplo didático de AG para minimização de custo de ração
